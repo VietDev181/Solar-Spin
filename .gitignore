@@ -47,9 +47,6 @@ Iphone*/
 iPhone*/
 iPad*/
 
-# Screenshot export folders
-images/
-
 # Mobile builds
 *.apk
 *.aab
